@@ -7,6 +7,7 @@ public class hello {
 		System.out.println("Hello India");
 		System.out.println("Hello Maharashtra");
 		System.out.println("Hello Pune");
+		System.out.println("My first commit thr eclipes 1");
 	}
 
 }
